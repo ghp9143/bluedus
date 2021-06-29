@@ -43,6 +43,12 @@ $(document).ready(function() {
         $('.toggle-nav').toggleClass('on');
     })
 
+    $('.mob-nav a').on('click', function() {
+        $('.ri-align-right').eq(0).toggleClass('display-none');
+        $('.ri-close-fill').toggleClass('display-none');
+        $('.toggle-nav').toggleClass('on');
+    })
+
     // Main Banner
     const scene = new THREE.Scene();
     const camera = new THREE.PerspectiveCamera(
@@ -58,6 +64,7 @@ $(document).ready(function() {
     renderer.setSize(innerWidth, innerHeight);
     renderer.setPixelRatio(window.devicePixelRatio);
     document.querySelector('.main-section-01 .globe').appendChild(renderer.domElement)
+    
 
     // create a Sphere
     const sphere = new THREE.Mesh(
@@ -79,6 +86,7 @@ $(document).ready(function() {
         sphere.rotation.y += 0.0017;
     }
     animate();
+    
 
     // main-section-carousel
     $('.main-carousel').owlCarousel({
