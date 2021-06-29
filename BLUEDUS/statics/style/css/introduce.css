@@ -1,0 +1,228 @@
+@charset "utf-8";
+
+.introduce-section-01 {
+    padding-top: 100px;
+    height: 400px;
+    background: url(../../visual/images/solution04.jpg) 50% 80% no-repeat;
+    background-size: cover;
+}
+/* introduce-section 공통 */
+.introduce-section {
+    padding: 100px 0;
+}
+.introduce-section .inner {
+    max-width: 1400px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+/* introduce-section-02 Vision */
+.introduce-section-02 .inner h2 {
+    font-size: 36px;
+    text-align: center;
+    color: #333;
+}
+.introduce-section-02 .inner .description {
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+.introduce-section-02 .inner .content-box-wrap {
+    margin-top: 100px;
+    display: flex;
+}
+.introduce-section-02 .inner .content-box-wrap .content-box {
+    width: 25%;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    color: #444;
+}
+.introduce-section-02 .inner .content-box-wrap .content-box .content-box-inner {
+    border: 1px solid #ddd;
+    padding: 80px 20px;
+}
+.introduce-section-02 .inner .content-box-wrap .content-box .img-box {
+
+}
+.introduce-section-02 .inner .content-box-wrap .content-box .img-box img {
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+}
+.introduce-section-02 .inner .content-box-wrap .content-box strong {
+    display: block;
+    margin: 25px 0 10px;
+}
+
+/* introduce-section-03 Mission */
+.introduce-section-03 {
+    background-color: #f4f7f8;
+}
+.introduce-section-03 .inner h2 {
+    font-size: 36px;
+    text-align: center;
+    color: #333;
+}
+.introduce-section-03 .inner .description {
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+.introduce-section-03 .inner .content-box-wrap {
+    margin-top: 100px;
+    display: flex;
+}
+.introduce-section-03 .inner .content-box-wrap .content-box {
+    width: 25%;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    color: #444;
+}
+.introduce-section-03 .inner .content-box-wrap .content-box .content-box-inner {
+    border: 1px solid #ddd;
+    padding: 80px 20px;
+}
+.introduce-section-03 .inner .content-box-wrap .content-box .img-box {
+
+}
+.introduce-section-03 .inner .content-box-wrap .content-box .img-box img {
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+}
+.introduce-section-03 .inner .content-box-wrap .content-box strong {
+    display: block;
+    margin: 25px 0 10px;
+}
+
+/* introduce-section-04 History */
+.introduce-section-04 {
+
+}
+.introduce-section-04 .inner h2 {
+    font-size: 36px;
+    text-align: center;
+    color: #333;
+}
+.introduce-section-04 .inner .description {
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+.introduce-section-04 .inner .content-box-wrap {
+    margin-top: 100px;
+    display: flex;
+}
+.introduce-section-04 .inner .content-box-wrap .content-box {
+    width: 20%;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    color: #444;
+}
+.introduce-section-04 .inner .content-box-wrap .content-box .content-box-inner {
+    border: 1px solid #ddd;
+    padding: 80px 20px;
+}
+.introduce-section-04 .inner .content-box-wrap .content-box .img-box {
+
+}
+.introduce-section-04 .inner .content-box-wrap .content-box .img-box img {
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+}
+.introduce-section-04 .inner .content-box-wrap .content-box strong {
+    display: block;
+    margin: 25px 0 10px;
+}
+
+/* introduce-section-05 Company Structure */
+.introduce-section-05 {
+    background-color: #f4f7f8;
+}
+.introduce-section-05 .inner h2 {
+    font-size: 36px;
+    text-align: center;
+    color: #333;
+}
+.introduce-section-05 .inner .description {
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+.introduce-section-05 .inner .content-box-wrap {
+    margin-top: 100px;
+    display: flex;
+}
+.introduce-section-05 .inner .content-box-wrap .content-box {
+    width: 25%;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    color: #444;
+}
+.introduce-section-05 .inner .content-box-wrap .content-box .content-box-inner {
+    border: 1px solid #ddd;
+    padding: 80px 20px;
+}
+.introduce-section-05 .inner .content-box-wrap .content-box .img-box {
+
+}
+.introduce-section-05 .inner .content-box-wrap .content-box .img-box img {
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+}
+.introduce-section-05 .inner .content-box-wrap .content-box strong {
+    display: block;
+    margin: 25px 0 10px;
+}
+/* introduce-section-06 Company Structure */
+.introduce-section-06 {
+    border-bottom: 1px solid #ddd;
+}
+.introduce-section-06 .inner h2 {
+    font-size: 36px;
+    text-align: center;
+    color: #333;
+}
+.introduce-section-06 .inner .description {
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+.introduce-section-06 .inner .content-box-wrap {
+    margin-top: 100px;
+    display: flex;
+}
+.introduce-section-06 .inner .content-box-wrap .content-box {
+    width: 25%;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    color: #444;
+}
+.introduce-section-06 .inner .content-box-wrap .content-box .content-box-inner {
+    border: 1px solid #ddd;
+    padding: 80px 20px;
+}
+.introduce-section-06 .inner .content-box-wrap .content-box .img-box {
+
+}
+.introduce-section-06 .inner .content-box-wrap .content-box .img-box img {
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+}
+.introduce-section-06 .inner .content-box-wrap .content-box strong {
+    display: block;
+    margin: 25px 0 10px;
+}
