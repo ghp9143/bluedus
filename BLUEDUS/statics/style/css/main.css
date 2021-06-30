@@ -375,11 +375,11 @@
     }
     .main-section-03 .description-box h3,
     .main-section-04 .description-box h3 {
-        font-size: 18px;
+        font-size: 16px;
     }
     .main-section-03 .description-box p,
     .main-section-04 .description-box p {
-        font-size: 14px;
+        font-size: 12px;
     }
     .main-carousel {
         padding: 40px 0 30px;
@@ -393,8 +393,12 @@
         left: -150px;
     }
     .main-section-01 .globe {
-        top: -130px;
-        right: 260px;
+        display: none;
+    }
+    .main-section-01 .main-bg-right {
+        display: block;
+        right: -681px;
+        top: -175px;
     }
     .main-section-01 .main-paragraph-bg .main-paragraph {
         left: 20px;

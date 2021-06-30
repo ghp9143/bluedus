@@ -35,7 +35,7 @@ header::after {
     z-index: -1;
 }
 header.hover::after {
-    height: 310px;
+    height: 280px;
     opacity: 1;
 }
 header .logo {
